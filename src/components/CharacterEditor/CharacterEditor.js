@@ -77,7 +77,7 @@ function App() {
           />
         </div>
       </MaxWidthWrapper>
-
+      <div className={styles.perspective} />
       <div className={styles.characterWrapper}>
         <Character
           body={body}
